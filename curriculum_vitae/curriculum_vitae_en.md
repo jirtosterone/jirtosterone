@@ -32,6 +32,7 @@
 ### Future Goals
 
 - Contribute to the planet or society through engineering.
+- Bringing excitement to life through engineering, then prove and spread that work is enjoyable.
 - Continuously challenge new things and share the results.
 - Continue proposing and building highly reliable and efficient platforms centered on AWS and infrastructure knowledge.
 
