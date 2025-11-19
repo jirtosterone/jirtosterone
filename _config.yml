@@ -1,7 +1,1 @@
-title: Jirtosterone's information
-theme: just-the-docs
-
-aux_nav:
-  Home: /
-  CV-jp: /curriculum_vitae/curriculum_vitae_jp.html
-  CV-en: /curriculum_vitae/curriculum_vitae_en.html
+theme: jekyll-theme-slate
