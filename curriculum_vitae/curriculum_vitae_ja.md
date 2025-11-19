@@ -29,10 +29,10 @@
 - 即実践: 新しい技術にアンテナを張り、自ら実践する。
 - 発信と巻き込み: 実践した事や得た知識をアウトプットして伝達し、周囲を巻き込んでいく。
 
-### 今後やりたいこと
+### 今後やりたいこと/やり続けたいこと
 
-- エンジニアリングを通じて、地球または社会に貢献する。
-- エンジニアリングでワクワクを実現し、仕事は楽しいものであることを証明するとともに、それを周囲に伝搬させる。
+- エンジニアリングを通じて、地球の未来に貢献する。
+- エンジニアリングで常にワクワクを産み出し、伝播させる。
 - 常に新しい事にチャレンジし、得た成果を発信し続ける。
 - AWS, インフラ知識を中心として、高信頼・高効率なプラットフォームを提案・構築し続ける。
 
@@ -83,11 +83,11 @@
 
 #### ミドルウェア
 
-自社製 RDBMS (HiRDB)
+- 自社製 RDBMS (HiRDB)
+- Apache Tomcat
 
 #### その他
 
-- Tomcat
 - Jenkins
 
 ### 規模/担当
@@ -156,13 +156,16 @@
 - PostgreSQL
 - MySQL
 - MariaDB
+- Apache Tomcat
+- Zabbix
 
-#### その他
+#### クラウド
 
 - AWS: EC2, RDS, Lambda, S3 等
 - Azure: VM, DB, CosmosDB Functions, ExpressRoute 等
-- Tomcat
-- Zabbix
+
+### その他
+
 - IaC: Ansible, ARM テンプレート
 
 ### 規模/担当
@@ -232,9 +235,12 @@
 
 - Oracle DB
 
-#### その他
+#### クラウド
 
 - AWS: EC2, RDS, Lambda, S3, Security Hub, GuardDuty, Control Tower, Direct Connect 等
+
+### その他
+
 - IaC: CloudFormation, CDK, Terraform
 
 ### 規模/担当
@@ -281,17 +287,24 @@
 
 #### 言語
 
+- Ruby
 - Python
 - TypeScript
 - Terraform/Terragrunt
 
 #### フレームワーク
 
-- IaC: Terraform, Serverless, CDK
+- Ruby on Rails
+- FastAPI
 
-#### サービス
+#### クラウド
 
 - AWS: Control Tower, IAM Identity Center, Security Hub, GuardDuty, ECS, ELB, CloudFront 等
+
+#### その他
+
+- IaC: Terraform, Serverless, CloudFormation
+- Observability: New Relic, Sentry
 
 </details>
 
@@ -327,8 +340,8 @@
 
 #### 言語
 
-- Python
 - Ruby
+- Python
 - TypeScript
 - Terraform/Terragrunt
 
@@ -336,11 +349,18 @@
 
 - Ruby on Rails
 - Django
-- IaC: Terraform, Serverless, CDK
+- FastAPI
 
-#### サービス
+#### クラウド
 
 - AWS: Control Tower, IAM Identity Center, Security Hub, GuardDuty, ECS, ELB, Lambda, CloudFront, Aurora MySQL, Neptune, ElastiCache, OpenSearch 等
+
+#### その他
+
+- IaC: Terraform, Serverless, CloudFormation
+- CI/CD: GitHub Actions
+- Observability: New Relic, Sentry, Datadog
+- AI: OpenAI, Anthropic, GitHub Copilot
 
 </details>
 
@@ -353,11 +373,12 @@
 - AWS
   - AWS Certified Cloud Practitioner
   - AWS Certified Solutions Architect - Associate
-  - AWS Certified Solutions Architect - Professional
+  - AWS Certified CloudOps Engineer - Associate
   - AWS Certified Developer - Associate
+  - AWS Certified Solutions Architect - Professional
   - AWS Certified DevOps Engineer - Professional
-  - AWS Certified Security - Specialty
   - AWS Certified Advanced Network - Specialty
+  - AWS Certified Security - Specialty
   - 参考: [Credly](https://www.credly.com/users/jun-irie.0e6f8b3e)
 - UMTP
   - UML 技能認定 L1, L2, L3

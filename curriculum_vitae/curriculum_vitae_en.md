@@ -29,10 +29,10 @@
 - **Immediate Practice**: Stay tuned to new technologies and practice them myself.
 - **Communication and Involvement**: Output and share practiced knowledge and experience, and involve others.
 
-### Future Goals
+### Future Goals / What I Want to Keep Doing
 
-- Contribute to the planet or society through engineering.
-- Bringing excitement to life through engineering, then prove and spread that work is enjoyable.
+- Contribute to the future of the planet through engineering.
+- Create and spread excitement through engineering.
 - Continuously challenge new things and share the results.
 - Continue proposing and building highly reliable and efficient platforms centered on AWS and infrastructure knowledge.
 
@@ -83,11 +83,11 @@ None
 
 #### Middleware
 
-Proprietary RDBMS (HiRDB)
+- Proprietary RDBMS (HiRDB)
+- Apache Tomcat
 
 #### Others
 
-- Tomcat
 - Jenkins
 
 ### Scale/Responsibility
@@ -156,13 +156,16 @@ Proprietary RDBMS (HiRDB)
 - PostgreSQL
 - MySQL
 - MariaDB
+- Apache Tomcat
+- Zabbix
 
-#### Others
+#### Cloud
 
 - AWS: EC2, RDS, Lambda, S3, etc.
 - Azure: VM, DB, CosmosDB, Functions, ExpressRoute, etc.
-- Tomcat
-- Zabbix
+
+### Others
+
 - IaC: Ansible, ARM templates
 
 ### Scale/Responsibility
@@ -232,9 +235,12 @@ None
 
 - Oracle DB
 
-#### Others
+#### Cloud
 
 - AWS: EC2, RDS, Lambda, S3, Security Hub, GuardDuty, Control Tower, Direct Connect, etc.
+
+### Others
+
 - IaC: CloudFormation, CDK, Terraform
 
 ### Scale/Responsibility
@@ -281,17 +287,24 @@ None
 
 #### Languages
 
+- Ruby
 - Python
 - TypeScript
 - Terraform/Terragrunt
 
 #### Frameworks
 
-- IaC: Terraform, Serverless, CDK
+- Ruby on Rails
+- FastAPI
 
-#### Services
+#### Cloud
 
 - AWS: Control Tower, IAM Identity Center, Security Hub, GuardDuty, ECS, ELB, CloudFront, etc.
+
+#### Others
+
+- IaC: Terraform, Serverless, CloudFormation
+- Observability: New Relic, Sentry
 
 </details>
 
@@ -327,8 +340,8 @@ None
 
 #### Languages
 
-- Python
 - Ruby
+- Python
 - TypeScript
 - Terraform/Terragrunt
 
@@ -336,11 +349,18 @@ None
 
 - Ruby on Rails
 - Django
-- IaC: Terraform, Serverless, CDK
+- FastAPI
 
-#### Services
+#### Cloud
 
 - AWS: Control Tower, IAM Identity Center, Security Hub, GuardDuty, ECS, ELB, Lambda, CloudFront, Aurora MySQL, Neptune, ElastiCache, OpenSearch, etc.
+
+#### Others
+
+- IaC: Terraform, Serverless, CloudFormation
+- CI/CD: GitHub Actions
+- Observability: New Relic, Sentry, Datadog
+- AI: OpenAI, Anthropic, GitHub Copilot
 
 </details>
 
@@ -353,11 +373,12 @@ None
 - AWS
   - AWS Certified Cloud Practitioner
   - AWS Certified Solutions Architect - Associate
-  - AWS Certified Solutions Architect - Professional
+  - AWS Certified CloudOps Engineer - Associate
   - AWS Certified Developer - Associate
+  - AWS Certified Solutions Architect - Professional
   - AWS Certified DevOps Engineer - Professional
-  - AWS Certified Security - Specialty
   - AWS Certified Advanced Network - Specialty
+  - AWS Certified Security - Specialty
   - Reference: [Credly](https://www.credly.com/users/jun-irie.0e6f8b3e)
 - UMTP
   - UML Proficiency Certification L1, L2, L3
