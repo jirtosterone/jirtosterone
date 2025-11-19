@@ -40,7 +40,7 @@
 
 ### 日立製作所
 
-<details>
+<details markdown="1">
 <summary>2011 年 4 月 - 2015 年 9 月: ビッグデータ処理ソフトウェアの設計・開発・拡販</summary>
 
 ### プロジェクト
@@ -103,7 +103,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>2015 年 10 月 - 2021 年 3 月: 文教分野におけるシステム提案・構築・運用</summary>
 
 ### プロジェクト
@@ -182,7 +182,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>2020 年 10 月 - 2024 年 2 月: 行政分野(地方自治体)におけるシステム提案・構築・運用</summary>
 
 ### プロジェクト
@@ -259,7 +259,7 @@
 
 ### シンプルフォーム
 
-<details>
+<details markdown="1">
 <summary>2024 年 3 月 - 2025 年 3 月: AWS インフラの設計・構築・運用</summary>
 
 ### プロジェクト
@@ -308,7 +308,7 @@
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>2025 年 4 月 - 現在: インフラ/セキュリティの取りまとめ</summary>
 
 ### プロジェクト

@@ -40,7 +40,7 @@
 
 ### Hitachi, Ltd.
 
-<details>
+<details markdown="1">
 <summary>April 2011 - September 2015: Design, Development, and Sales of Big Data Processing Software</summary>
 
 ### Project
@@ -103,7 +103,7 @@ None
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>October 2015 - March 2021: System Proposal, Construction, and Operation in Education Sector</summary>
 
 ### Project
@@ -182,7 +182,7 @@ None
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>October 2020 - February 2024: System Proposal, Construction, and Operation in Government Sector (Local Government)</summary>
 
 ### Project
@@ -259,7 +259,7 @@ None
 
 ### SimpleForm Inc.
 
-<details>
+<details markdown="1">
 <summary>March 2024 - March 2025: AWS Infrastructure Design, Construction, and Operation</summary>
 
 ### Project
@@ -308,7 +308,7 @@ None
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>April 2025 - Present: Infrastructure/Security Leadership</summary>
 
 ### Project
