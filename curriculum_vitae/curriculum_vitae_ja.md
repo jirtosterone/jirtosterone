@@ -391,4 +391,4 @@
 
 ## スキル
 
-https://github.com/jirtosterone
+[README](https://jirtosterone.github.io/jirtosterone/) 参照。

@@ -391,4 +391,4 @@ None
 
 ## Skills
 
-https://github.com/jirtosterone
+See [README](https://jirtosterone.github.io/jirtosterone/).
