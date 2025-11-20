@@ -4,7 +4,7 @@
 [![Zenn Likes](https://badgen.org/img/zenn/jirtosterone/likes?style=social)](https://zenn.dev/jirtosterone)
 [![Qiita Contributions](https://badgen.org/img/qiita/jirtosterone/contributions?style=social)](https://qiita.com/jirtosterone)
 
-- 🛠️ Job: SRE enginner, Platform engineer
+- 🛠️ Job: SRE / Platform / Security engineer
 - 🤩 My favorites: AWS, Terraform, Python, CI/CD.
 
 ## 📝 Blog and SNS
