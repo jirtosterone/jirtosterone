@@ -31,7 +31,7 @@
 
 ### Future Goals / What I Want to Keep Doing
 
-- Cooperate to the community, society, and industry through engineering.
+- Help people in need through engineering and give back to the community, society, and industry.
 - Spread the excitement of engineering and create enjoyable engineering experiences.
 - Continuously challenge new things and pursue efficiency and sophistication.
 - Continue proposing and building highly reliable and efficient platforms centered on AWS and infrastructure knowledge.
