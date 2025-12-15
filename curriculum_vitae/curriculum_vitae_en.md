@@ -31,9 +31,9 @@
 
 ### Future Goals / What I Want to Keep Doing
 
-- Contribute to the future of the planet through engineering.
-- Create and spread excitement through engineering.
-- Continuously challenge new things and share the results.
+- Cooperate to the community, society, and industry through engineering.
+- Spread the excitement of engineering and create enjoyable engineering experiences.
+- Continuously challenge new things and pursue efficiency and sophistication.
 - Continue proposing and building highly reliable and efficient platforms centered on AWS and infrastructure knowledge.
 
 ## Work Experience
