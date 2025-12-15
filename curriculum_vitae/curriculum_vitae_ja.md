@@ -372,6 +372,7 @@
   - [情報処理安全確保支援士](https://riss.ipa.go.jp/r?r=025102)
 - AWS
   - AWS Certified Cloud Practitioner
+  - AWS Certified AI Practitioner
   - AWS Certified Solutions Architect - Associate
   - AWS Certified CloudOps Engineer - Associate
   - AWS Certified Developer - Associate
