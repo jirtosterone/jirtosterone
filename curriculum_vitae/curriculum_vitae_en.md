@@ -381,6 +381,7 @@ None
   - AWS Certified Solutions Architect - Associate
   - AWS Certified CloudOps Engineer - Associate
   - AWS Certified Developer - Associate
+  - AWS Certified Machine Learning Engineer - Associate
   - AWS Certified Solutions Architect - Professional
   - AWS Certified DevOps Engineer - Professional
   - AWS Certified Advanced Network - Specialty
