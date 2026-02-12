@@ -7,6 +7,10 @@
 
 ## Summary
 
+### Motto
+
+Maximizing the productivity and happiness of all engineers
+
 ### Career History
 
 | Period                       | Company         | Type      | Role / Position                                          |
@@ -32,6 +36,7 @@
 ### Future Goals / What I Want to Keep Doing
 
 - Help people in need through engineering and give back to the community, society, and industry.
+- Create an environment where engineers in the organization and team can perform at their best, and keep picking up the balls that fall through the cracks.
 - Spread the excitement of engineering and create enjoyable engineering experiences.
 - Continuously challenge new things and pursue efficiency and sophistication.
 - Continue proposing and building highly reliable and efficient platforms centered on AWS and infrastructure knowledge.
