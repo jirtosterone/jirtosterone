@@ -287,6 +287,7 @@ None
 - Planned and executed transition from single AWS account mixing production, testing, and development environments to multi-account configuration, achieving governance management for each environment.
 - Implemented SSO authentication for various services centered on IAM Identity Center, contributing to improved ID management security.
 - Introduced organization-wide security configuration management and monitoring centered on Security Hub, successfully achieving continuous infrastructure security improvement.
+- Resolved performance and reliability issues with Amazon Neptune (graph database) - a technology with few global use cases - through infrastructure configuration changes (serverless introduction) and query improvements, achieving stable operation and ongoing continuous improvement.
 
 ### Technologies Used
 
@@ -336,9 +337,9 @@ None
 
 #### Achievements
 
-- Resolved performance and reliability issues with Amazon Neptune (graph database) - a technology with few global use cases - through infrastructure configuration changes (serverless introduction) and query improvements, achieving stable operation and ongoing continuous improvement.
 - Proposed and introduced continuous improvement processes using GitHub Dependabot and SAST to improve overall service security, implementing DevSecOps.
 - During office relocation due to company growth, led office network design and construction through vendor coordination, completing relocation without major issues. Also reviewed unnecessary telephone and network contracts during relocation, contributing to cost reduction.
+- As a manager, promoted zero trust security, implemented mechanisms to prevent information leakage even in cases of device loss, and fostered risk identification, understanding, and security culture through threat modeling.
 - External publication: [Findy Tools - SimpleForm's Serverless Microservices Architecture](https://findy-tools.io/companies/simpleform/221/74)
 
 ### Technologies Used
@@ -366,6 +367,7 @@ None
 - CI/CD: GitHub Actions
 - Observability: New Relic, Sentry, Datadog
 - AI: OpenAI, Anthropic, GitHub Copilot
+- Security / Corporate IT: CloudStrike, Cloudflare, 1Password, Okta Verify, Jamf Pro, Intune
 
 </details>
 
@@ -382,6 +384,7 @@ None
   - AWS Certified CloudOps Engineer - Associate
   - AWS Certified Developer - Associate
   - AWS Certified Machine Learning Engineer - Associate
+  - AWS Certified Data Engineer - Associate
   - AWS Certified Solutions Architect - Professional
   - AWS Certified DevOps Engineer - Professional
   - AWS Certified Advanced Network - Specialty

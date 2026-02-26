@@ -287,6 +287,7 @@
 - 本番、検証、開発といった複数の環境が混在した 1 つの AWS アカウントにおいて、マルチアカウント構成にするための計画立案から実行までを行い、環境毎の統制管理を実現した。
 - IAM Identity Center を軸とした各種サービスの SSO 認証を実装し、ID 管理のセキュリティ向上に寄与した。
 - Security Hub を中心とした組織全体のセキュリティ設定の管理・監視を導入し、インフラセキュリティを継続的に高めることに成功した。
+- 世界的にも事例の少ないグラフ DB (Amazon Neptune) の性能や信頼性に課題がある中、インフラ設定の変更 (サーバレスの導入) やクエリ改善を通じて課題の解消を行い、安定運用を実現するとともに、その後の継続的改善を行った。
 
 ### 使用製品/技術
 
@@ -336,9 +337,9 @@
 
 #### 実績・取り組み等
 
-- 世界的にも事例の少ないグラフ DB (Amazon Neptune) の性能や信頼性に課題がある中、インフラ設定の変更 (サーバレスの導入) やクエリ改善を通じて課題の解消を行い、安定運用を実現するとともに、その後の継続的改善を行った。
 - サービス全体のセキュリティ向上を図るため、GitHub Dependabot や SAST を活用した継続的改善プロセスを提案し、DevSecOps を導入した。
 - 会社規模の拡大に伴いオフィス移転を行う際、オフィスのネットワーク設計・構築を業者に指示して推進して、大きな問題なく移転を完了させた。また、移転を機に無駄な電話・ネットワーク契約を見直し、コスト削減にも寄与した。
+- マネージャーの立場として、ゼロトラストセキュリティの推進、端末を紛失しても情報漏洩させない仕組みの実現、脅威モデリングを通じたリスク洗い出しと理解とセキュリティ文化の醸成を行った。
 - 外部媒体への投稿: [Findy Tools - シンプルフォームのサーバレス・マイクロサービスアーキテクチャ](https://findy-tools.io/companies/simpleform/221/74)
 
 ### 使用製品/技術
@@ -366,6 +367,7 @@
 - CI/CD: GitHub Actions
 - Observability: New Relic, Sentry, Datadog
 - AI: OpenAI, Anthropic, GitHub Copilot
+- Security / Corporate IT: CloudStrike, Cloudflare, 1Password, Okta Verify, Jamf Pro, Intune
 
 </details>
 
@@ -382,6 +384,7 @@
   - AWS Certified CloudOps Engineer - Associate
   - AWS Certified Developer - Associate
   - AWS Certified Machine Learning Engineer - Associate
+  - AWS Certified Data Engineer - Associate
   - AWS Certified Solutions Architect - Professional
   - AWS Certified DevOps Engineer - Professional
   - AWS Certified Advanced Network - Specialty
