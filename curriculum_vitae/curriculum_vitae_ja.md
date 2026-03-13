@@ -392,6 +392,7 @@
   - 参考: [Credly](https://www.credly.com/users/jun-irie.0e6f8b3e)
 - UMTP
   - UML 技能認定 L1, L2, L3
+- TOEIC: 720 点
 
 ## ブログ等
 

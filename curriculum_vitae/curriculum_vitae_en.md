@@ -392,6 +392,7 @@ None
   - Reference: [Credly](https://www.credly.com/users/jun-irie.0e6f8b3e)
 - UMTP
   - UML Proficiency Certification L1, L2, L3
+- TOEIC: 720
 
 ## Blog & Publications
 
