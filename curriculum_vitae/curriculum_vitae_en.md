@@ -387,6 +387,7 @@ None
   - AWS Certified Data Engineer - Associate
   - AWS Certified Solutions Architect - Professional
   - AWS Certified DevOps Engineer - Professional
+  - AWS Certified Generative AI Developer - Professional (Early Adopter)
   - AWS Certified Advanced Network - Specialty
   - AWS Certified Security - Specialty
   - Reference: [Credly](https://www.credly.com/users/jun-irie.0e6f8b3e)
