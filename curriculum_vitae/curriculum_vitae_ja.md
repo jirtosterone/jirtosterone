@@ -390,10 +390,12 @@
   - AWS Certified Generative AI Developer - Professional (Early Adopter)
   - AWS Certified Advanced Network - Specialty
   - AWS Certified Security - Specialty
-  - 参考: [Credly](https://www.credly.com/users/jun-irie.0e6f8b3e)
+  - [2026 Japan All AWS Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2026-japan-all-aws-certifications-engineers/)
 - UMTP
   - UML 技能認定 L1, L2, L3
 - TOEIC: 720 点
+
+[Credly](https://www.credly.com/users/jun-irie.0e6f8b3e)
 
 ## ブログ等
 
