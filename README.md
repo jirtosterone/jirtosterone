@@ -19,9 +19,3 @@
 
 <img src="https://skillicons.dev/icons?i=terraform,python,ruby,typescript,bash,powershell," /> <br /><br />
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,windows,git,github,mysql,postgresql," /> <br /><br />
-
-## 💪 Activities
-
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs?username=jirtosterone&show_icons=true&locale=en)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jirtosterone&show_icons=true&count_private=true&line_height=40)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jirtosterone&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)

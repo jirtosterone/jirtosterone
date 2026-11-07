@@ -1,1 +1,17 @@
-theme: jekyll-theme-slate
+title: jirtosterone
+description: SRE / Platform / Security engineer
+# GitHub Pages enables these implicitly; listing them keeps local builds identical
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  - jekyll-seo-tag
+nav:
+  - title: Home
+    url: /
+  - title: 職務経歴書
+    url: /curriculum_vitae/curriculum_vitae_ja.html
+  - title: CV (EN)
+    url: /curriculum_vitae/curriculum_vitae_en.html
